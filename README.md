@@ -3,4 +3,4 @@
 Exemplos de portifólio
 ## Tarefas
 
-O controle das tarefas desse projeto será realizado no GitHub
+O controle das tarefas deste projeto será realizado no GitHub
